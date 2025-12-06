@@ -1,3 +1,5 @@
+used ai to get the thing working, go through actions and find the artifact apk, i didnt changed nor edited anything, what you see is what you get.
+
 # Nothing Clock
 
 ### Welcome to the official repository for the Nothing Clock app! <br />
